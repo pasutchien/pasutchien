@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [A Deep Learning Approach to Skin Cancer Classification](https://github.com/pasutchien/APS360-Skin-Cancer-Classification)
 
-- 🌱 I’m currently studying **Machine Learning courses at the University of Toronto**
-
 - 🔭 I’m currently working on [A Machine Learning Approach to Alzheimer’s Disease early detection](https://github.com/pasutchien/STA314-Alzheimer-Disease-Detection)
+
+- 🌱 I’m currently studying **Machine Learning courses at the University of Toronto**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pasutchien?tab=repositories](https://github.com/pasutchien?tab=repositories)
 
