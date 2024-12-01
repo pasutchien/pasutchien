@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pasut Aranchaiya</h1>
 <h3 align="center">A Passionate Engineering Student and A Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on [A Deep Learning Approach to Skin Cancer Classification](https://github.com/pasutchien/APS360-Skin-Cancer-Classification)
 
 - 🔭 I’m currently working on [A Machine Learning Approach to Alzheimer’s Disease early detection](https://github.com/pasutchien/STA314-Alzheimer-Disease-Detection)
 
