@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pasut Aranchaiya</h1>
 <h3 align="center">A Passionate Engineering Student and A Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on [A Machine Learning Approach to Alzheimer’s Disease early detection](https://github.com/pasutchien/STA314-Alzheimer-Disease-Detection)
-
 - 🌱 I’m currently studying **Machine Learning courses at the University of Toronto**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pasutchien?tab=repositories](https://github.com/pasutchien?tab=repositories)
