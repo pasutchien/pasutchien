@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasut Aranchaiya</h1>
-<h3 align="center">A Passionate Engineering Student and A Machine Learning Enthusiast</h3>
+<h3 align="center">I'm Loving Computer Vision</h3>
 
-- 🌱 I’m currently studying **Machine Learning courses at the University of Toronto**
+- 🌱 I’m currently studying **Machine Learning Master's at the University of Tübingen**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pasutchien?tab=repositories](https://github.com/pasutchien?tab=repositories)
 
