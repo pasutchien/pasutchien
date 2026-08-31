@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasut Aranchaiya</h1>
-<h3 align="center">I'm Loving Computer Vision</h3>
+<h3 align="center">A Machine Learning Student Passionate in Computer Vision</h3>
 
 - 🌱 I’m currently studying **Machine Learning Master's at the University of Tübingen**
 
