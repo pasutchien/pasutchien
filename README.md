@@ -23,7 +23,8 @@
 
 **Bachelor Projects**
 - [Chess Video to PGN converter](https://github.com/pasutchien/Digi-Image-Chess-Project)
-- [Checkers AI](https://github.com/pasutchien/CheckersAI)
-- [Smart Toy](https://github.com/pasutchien/Robo_smart_toy)
 - [Alzheimer Disease Detection](https://github.com/pasutchien/STA314-Alzheimer-Disease-Detection)
 - [Skin Cancer Classification](https://github.com/pasutchien/APS360-Skin-Cancer-Classification)
+- [Checkers AI](https://github.com/pasutchien/CheckersAI)
+- [Smart Toy](https://github.com/pasutchien/Robo_smart_toy)
+
